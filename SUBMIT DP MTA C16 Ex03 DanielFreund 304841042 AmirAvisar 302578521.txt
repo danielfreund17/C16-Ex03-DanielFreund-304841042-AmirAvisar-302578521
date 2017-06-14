@@ -1,0 +1,13 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 3
+First Student Details.: 304841042- Daniel Freund
+Second Student Details: 302578521 - Amir Avisar
+Delivery Date.........: 02 - October - 2016
+Delivered In Delay....: No
+Delay Reason..........: 
+Visual Studio Version.: 2015
+Comments..............: We couldn't add the FBApi folder beacuase of security matters, so you need to
+add reference to the two facebook dll :
+FbGraphApiWrapper.dll
+Facebook.dll
+=======================End Exercise Checking Report=========================
