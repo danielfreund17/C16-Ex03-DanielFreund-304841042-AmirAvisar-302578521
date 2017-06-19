@@ -5,11 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E936259B-0C05-4F00-84FC-9B5449CF522A}"
 	ProjectSection(SolutionItems) = preProject
-		DP_Ex03_DanielFreund_AmirAvisar.docx = DP_Ex03_DanielFreund_AmirAvisar.docx
-		SUBMIT DP MTA C16 Ex03 DanielFreund 304841042 AmirAvisar 302578521.txt = SUBMIT DP MTA C16 Ex03 DanielFreund 304841042 AmirAvisar 302578521.txt
+		Design.docx = Design.docx
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookProj", "C16 Ex03 Daniel 304841042 Amir 302578521\FacebookProj.csproj", "{C884FF3D-1AD4-427F-8B26-8560ABE344AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookProj", "Source\FacebookProj.csproj", "{C884FF3D-1AD4-427F-8B26-8560ABE344AB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Facebook API", "Facebook API", "{D0C0CB19-31D8-4FE3-8388-2A0E025717C7}"
 	ProjectSection(SolutionItems) = preProject
